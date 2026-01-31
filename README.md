@@ -1,22 +1,18 @@
-### Hello, [syntaxDuck] 🦆
+Hi, I’m Kameron 👋  
+Software Engineer focused on systems, tooling, and backend development.
 
-## I'm a Hobbyiest, Electrical Engineer, Developer, and Life Long Learner 📚
+🔹 Languages: Python, C, JavaScript  
+🔹 Interests: editors, performance, developer tooling, embedded scripting  
+🔹 Currently: transitioning from QA → SWE, preparing for Big Tech interviews
 
-### Connect with me:
+### Featured Projects
+- **Proto** – A low-level systems project exploring X  
+- **Text Editor** – A command-pattern based editor written in C  
+- **Neovim Plugin** – Lua/C plugin extending editor capabilities
 
-[syntaxDuck]: https://github.com/syntaxDuck?tab=repositories
+### What I Care About
+- Clean abstractions
+- Understanding things *from first principles*
+- Writing code that explains itself
 
-<!--
-**syntaxDuck/syntaxDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 LinkedIn | Portfolio | Resume
