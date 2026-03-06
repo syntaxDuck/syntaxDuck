@@ -23,7 +23,7 @@ I write C when I want to understand something, Python when I want to build somet
 ```
 Languages   Python · C · JavaScript · TypeScript
 Interests   Systems programming · developer tooling · editors · embedded scripting
-Currently   QA → SWE transition · sharpening algorithms & system design
+Currently   Building stuff · sharpening algorithms & system design
 ```
 
 ---
